@@ -48,7 +48,6 @@ class BankloanAdmin(admin.ModelAdmin):
 ![image](https://github.com/user-attachments/assets/07b08745-5962-477e-b0e7-440798682668)
 
 
-Include the screenshot of your admin page.
 
 
 ## RESULT
