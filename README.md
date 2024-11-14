@@ -42,6 +42,11 @@ from .models import Bankloan,BankloanAdmin
 admin.site.register(Bankloan,BankloanAdmin)
 ```
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/a727dde2-9bc8-4ad1-be61-98d95ff0898d)
+
+![image](https://github.com/user-attachments/assets/f0d9e922-bc3f-400e-a16b-564cc7acaf4b)
+
 ![image](https://github.com/user-attachments/assets/feec30b1-6e6a-437e-aae7-1f7e3c5d5a9e)
 
 
